@@ -1,0 +1,6 @@
+0:boss
+1:fat
+2:fierce
+3:lamb
+4:lazy
+5:wronged

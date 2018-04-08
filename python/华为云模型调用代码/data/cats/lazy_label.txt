@@ -1,0 +1,2 @@
+0:lazy
+1:notlazy
